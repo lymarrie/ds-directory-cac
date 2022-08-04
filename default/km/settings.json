@@ -16,6 +16,11 @@
       "disabled": false
     },
     {
+      "entityType": "ce_country",
+      "defaultFieldEligibilityGroup": "ce_country.default",
+      "disabled": false
+    },
+    {
       "entityType": "job",
       "disabled": true
     },
